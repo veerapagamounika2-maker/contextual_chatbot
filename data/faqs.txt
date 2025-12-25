@@ -1,0 +1,17 @@
+Frequently Asked Questions
+
+
+Q: How do I create an account?
+A: You can create an account by clicking on the Sign Up button and providing your email address and password.
+
+Q: How can I reset my password?
+A: Click on the Forgot Password link and follow the instructions sent to your registered email.
+
+Q: How many days return policy is available?
+A: Customers can return products within 7 days of delivery.
+
+Q: When will I receive my refund?
+A: Refunds are processed within 5 to 7 business days after the returned product is picked up.
+
+Q: What should I do if I receive a damaged product?
+A: If the product is damaged, you can request a return or replacement from the Orders section.

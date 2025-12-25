@@ -1,0 +1,6 @@
+```txt
+langchain
+langchain-community
+faiss-cpu
+openai
+streamlit
